@@ -23,7 +23,7 @@ Discrimination and harassment are expressly prohibited in our community. Harassm
 
 In order to provide such an environment, we commit to being considerate in our language use. Any behavior or language which is unwelcoming—whether or not it rises to the level of harassment—is also strongly discouraged.
 
-Much exclusionary behavior takes the form of [microaggressions](https://www.google.com/url?q=http://www.vox.com/2015/2/16/8031073/what-are-microaggressions&sa=D&ust=1587465791605000)—subtle put-downs which may be unconsciously delivered. Regardless of intent, microaggressions can have a significant negative impact on the people who receive them and have no place in our community.
+Much exclusionary behavior takes the form of [microaggressions](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions)—subtle put-downs which may be unconsciously delivered. Regardless of intent, microaggressions can have a significant negative impact on the people who receive them and have no place in our community.
 
 The same goes for tone policing, or responding negatively to the emotion behind a person’s message while ignoring its content (telling someone who is discussing an issue that makes them upset to “calm down” instead of responding to their concerns is an example of tone policing).
 
