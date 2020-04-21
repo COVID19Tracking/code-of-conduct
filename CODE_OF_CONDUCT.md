@@ -1,6 +1,5 @@
 # The COVID Tracking Project Code of Conduct
-
-*Last updated 25 March 2020*
+*Last updated 21 March 2020*
 
 ## Purpose
 
@@ -57,4 +56,4 @@ This Code of Conduct and its related procedures also applies to unacceptable beh
 
 ## License and attribution
 
-Above text is licensed CC BY-SA 4.0. Credit to [Citizen Code of Conduct](https://www.google.com/url?q=http://citizencodeofconduct.org/&sa=D&ust=1587465791610000), the [Vox Media Product Team Code of Conduct](https://www.google.com/url?q=https://code-of-conduct.voxmedia.com/&sa=D&ust=1587465791610000), the [Django Project’s code of conduct](https://www.google.com/url?q=https://www.djangoproject.com/conduct/&sa=D&ust=1587465791611000) and the [SRCCON Code of Conduct](https://www.google.com/url?q=http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy&sa=D&ust=1587465791611000), from which we’ve extensively borrowed.
+Above text is licensed CC BY-SA 4.0. Credit to [Citizen Code of Conduct](http://citizencodeofconduct.org), the [Vox Media Product Team Code of Conduct](https://code-of-conduct.voxmedia.com), the [Django Project’s code of conduct](https://www.djangoproject.com/conduct) and the [SRCCON Code of Conduct](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), from which we’ve extensively borrowed.
