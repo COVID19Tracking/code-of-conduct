@@ -1,6 +1,6 @@
 # The COVID Tracking Project Code of Conduct
 
-Last updated 25 March 2020
+*Last updated 25 March 2020*
 
 ## Purpose
 
