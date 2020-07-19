@@ -1,5 +1,5 @@
 # The COVID Tracking Project Code of Conduct
-*Last updated 21 April 2020*
+*Last updated 19 July 2020*
 
 ## Purpose
 
@@ -21,7 +21,7 @@ We ask all community members to model and encourage the following behaviors:
 
 Discrimination and harassment are expressly prohibited in our community. Harassment may include, but is not limited to, intimidation; stalking; use of sexual or discriminatory imagery, comments, or jokes; intentional or repeated misgendering; sexist, racist, ableist, or otherwise discriminatory or derogatory language; and unwelcome sexual attention.
 
-In order to provide such an environment, we commit to being considerate in our language use. Any behavior or language which is unwelcoming—whether or not it rises to the level of harassment—is also strongly discouraged.
+In order to provide such an environment, we commit to being considerate in our language use. Any behavior or language which is unwelcoming—whether or not it rises to the level of harassment—is also strongly discouraged. This includes profanity, even when it is not directed at another community member: profanity is not forbidden, but we do ask that you think thrice before cussing (or at least keep it in #venting).
 
 Much exclusionary behavior takes the form of [microaggressions](https://www.vox.com/2015/2/16/8031073/what-are-microaggressions)—subtle put-downs which may be unconsciously delivered. Regardless of intent, microaggressions can have a significant negative impact on the people who receive them and have no place in our community.
 
@@ -45,7 +45,6 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 - Alexis Madrigal
 - Erin Kissane
-- JD Maresco
 - Amanda French
 
 ## Scope
