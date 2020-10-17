@@ -45,7 +45,6 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 
 - Alexis Madrigal
 - Erin Kissane
-- JD Maresco
 - Amanda French
 
 ## Scope
