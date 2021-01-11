@@ -2,7 +2,9 @@
 *Last updated 18 November 2020*
 
 
-## Community norms
+## Contributor Policies 
+
+### Community norms
 
 We ask all community members to model and encourage the following behaviors:
 
@@ -14,12 +16,12 @@ We ask all community members to model and encourage the following behaviors:
 
 - Take care of each other. Alert any member of our [Safety Team](https://github.com/COVID19Tracking/code-of-conduct/blob/master/CODE_OF_CONDUCT.md#safety-teamreporting-guidelines) (listed below) if you notice a dangerous situation, someone in distress, or violations of our Code of Conduct, even if they seem inconsequential. And most importantly, if you notice that a peer is having a rough time and it doesn’t feel like an encouraging-emoji situation, please call on project leadership—we will do our best to connect that person with resources and support in every way that we can.
 
-## Public Association with CTP
+### Public Association with CTP
 The COVID Tracking Project works in a highly politicized landscape and has been successful as a provider of vital information in part because we maintain consistent message discipline. We stay in our lane, we are fact-centric and non-partisan in our approach, and we maintain working relationships with both governmental agencies and a very wide range of research and journalistic organizations. 
 
 To support us in this work, we ask that all project contributors refrain from identifying themselves as official representatives of the CTP on social media, in contacts with press or government agencies, or in other circumstances unless you’ve received authorization to do so. It’s totally fine to have CTP in your online profiles/LinkedIn—but if you do, please be thoughtful about the way you interact with others as a member of the project. It’s also perfectly okay to take positions as individuals that we wouldn’t take as a project, as long as there’s no implication that your position is a de facto CTP position. We very much appreciate everyone’s willingness to keep our work low-drama and let us all focus on the work itself as much as possible.
 
-## Media and Interview Policy
+### Media and Interview Policy
 
 We want everyone on the project to thrive within and outside of our community. We understand the desire to bring an insider understanding of our work at CTP to wider audiences, and much of the time, that’s fine—but sometimes it won’t be. And not always for obvious reasons!
 
@@ -38,7 +40,7 @@ This code of conduct outlines our expectations and norms for all those who parti
 
 We invite all those who participate in the COVID Tracking Project to help us create safe and positive experiences for everyone.
 
-## Unacceptable behavior
+### Unacceptable behavior
 
 Discrimination and harassment are expressly prohibited in our community. Harassment may include, but is not limited to, intimidation; stalking; use of sexual or discriminatory imagery, comments, or jokes; intentional or repeated misgendering; sexist, racist, ableist, or otherwise discriminatory or derogatory language; and unwelcome sexual attention.
 
@@ -52,7 +54,7 @@ There are a host of behaviors and language common on technical projects which ar
 
 Don’t be a jerk in any of these specific ways, but also just be good to each other.
 
-## Consequences of unacceptable behavior
+### Consequences of unacceptable behavior
 
 Unacceptable behavior from any community member, including team leads, founders, and those with decision-making authority, will not be tolerated. This document gives several examples of unacceptable behavior, but other actions and interactions not described here might also warrant intervention or removal from the community. 
 
@@ -60,7 +62,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in any kind of unacceptable behavior, whether described in this document or not, project leadership may take any action they deem appropriate, up to and including removal from the community without warning.
 
-## Safety Team/Reporting Guidelines
+### Safety Team/Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please tell one of the following project or safety leads as soon as possible. You can direct message one or all of us in Slack or find additional contact options in our profiles:
 
@@ -71,7 +73,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 - Jessica Malaty Rivera
 
 
-## Scope
+### Scope
 
 We expect all community members to abide by this Code of Conduct in all project spaces–Slack, Github, social channels, etc—as well as in all one-on-one communications pertaining to project business.
 
