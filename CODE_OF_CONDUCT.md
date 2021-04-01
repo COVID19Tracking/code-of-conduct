@@ -25,7 +25,7 @@ We want everyone on the project to thrive within and outside of our community. W
 
 What is insider understanding/knowledge? The COVID Tracking Project Slack is our community’s workplace, and we consider it (along with our internal video calls, project management tools, and other internal communication channels) to be both a private space and off the record. Everything not explicitly shared on our website, in our public API, on the COVID Tracking Project Twitter account, or in media interviews with CTP contributors authorized to speak on the project’s behalf should be considered private. We expect that every contributor will accord their colleagues the respect of maintaining this privacy by not publicly disclosing the internal-only documents, analyses, and conversations that allow us to do our work. 
 
-If you want to do an interview, give a talk, or otherwise publicly communicate something about the CTP or from our Slack or other internal channels that is not already public information, please get an advance OK from Alexis or Erin on the overall lines of what you’ll cover. (Ask in advance, please, and be willing to wait at least 24 hours for a response—usually we can respond right away, but not always.) Most of all, please ask yourself whether the thing you want to share with a wider audience could harm our relationships with state and territorial officials or damage our credibility as a project. If you’re not sure, just ask. The widespread trust in the data we compile is a significant public good, and we want to do everything we can to maintain it. 
+If you want to do an interview, give a talk, or otherwise publicly communicate something about the CTP or from our Slack or other internal channels that is not already public information, please get an advance OK from Alexis on the overall lines of what you’ll cover. (Ask in advance, please, and be willing to wait at least 24 hours for a response—usually we can respond right away, but not always.) Most of all, please ask yourself whether the thing you want to share with a wider audience could harm our relationships with state and territorial officials or damage our credibility as a project. If you’re not sure, just ask. The widespread trust in the data we compile is a significant public good, and we want to do everything we can to maintain it. 
 
 If you do report on internal-only data or analysis or on private communications, we may restrict your Slack account or remove you from the project, but we’d prefer to avoid all of that.
 
@@ -65,7 +65,6 @@ If a community member engages in any kind of unacceptable behavior, whether desc
 If you are subject to or witness unacceptable behavior, or have any other concerns, please tell one of the following project or safety leads as soon as possible. You can direct message one or all of us in Slack or find additional contact options in our profiles:
 
 - Alexis Madrigal
-- Erin Kissane
 - Amanda French
 - Kara Oehler
 - Jessica Malaty Rivera
