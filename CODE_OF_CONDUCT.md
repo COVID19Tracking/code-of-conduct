@@ -67,7 +67,6 @@ If a community member engages in any kind of unacceptable behavior, whether desc
 If you are subject to or witness unacceptable behavior, or have any other concerns, please tell one of the following project or safety leads as soon as possible. You can direct message one or all of us in Slack or find additional contact options in our profiles:
 
 - Alexis Madrigal
-- Amanda French
 - Kara Oehler
 - Jessica Malaty Rivera
 
